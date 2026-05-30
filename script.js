@@ -5,22 +5,42 @@
 /* ==================== CONFIGURATION ==================== */
 
 const PHONE_SCREENSHOTS = [
+    'img/onBroarding1.png',
+    'img/onBroarding3.png',
     'img/home.png',
     'img/home1.png',
+    'img/history.png',
+    'img/traduction.png',
     'img/parcours.png',
-    'img/parcours2.png'
+    'img/parcours2.png',
+    'img/practice.png',
+    'img/profile1.png',
+    'img/setting.png',
 ];
 
 const GALLERY_SCREENSHOTS = [
+    { url: 'img/home1.png',   caption: 'Écran d\'accueil' },
     { url: 'img/parcours.png',   caption: 'Écran du parcours' },
     { url: 'img/leçon4.png',     caption: 'Exercice de réordonnancement' },
     { url: 'img/citation.png',   caption: 'Citation du jour' },
     { url: 'img/endLesson.png',  caption: 'Fin de leçon' },
     { url: 'img/profile2.png',   caption: 'Profil utilisateur' },
+    { url: 'img/history.png',     caption: 'Liste d\'histoires' },
+    { url: 'img/history2.png',     caption: 'Déroulement d\'histoire' },
+    { url: 'img/history3.png',     caption: 'Mots clés d\'histoire' },
     { url: 'img/ligue.png',      caption: 'Ligues hebdomadaires' },
     { url: 'img/setting.png',    caption: 'Paramètres' },
     { url: 'img/traduction.png', caption: 'Traduction FR ↔ EN' },
-    { url: 'img/wordGame.png',   caption: 'Jeux de vocabulaire' }
+    { url: 'img/wordGame.png',   caption: 'Jeux de vocabulaire' },
+    { url: 'img/memoryGame.png',     caption: 'Jeux de mémoire' },
+    { url: 'img/audioGame.png',     caption: 'Jeux d\'écoute(audio)' },
+    { url: 'img/matchChronoGame.png',     caption: 'Jeux d\'association chronométrée' },
+    { url: 'img/trueFalseGame.png',     caption: 'Jeux de vrai ou faux' },
+    { url: 'img/typeRushGame.png',     caption: 'Jeux de frappe rapide' },
+    { url: 'img/geldeserie.png',     caption: 'Gel de série' },
+    { url: 'img/xp.png',     caption: 'XP' },
+    { url: 'img/store1.png',     caption: 'Boutique' },
+    { url: 'img/streakDay.png',     caption: 'Nombre de jours consécutifs' },
 ];
 
 const FEATURES = [
